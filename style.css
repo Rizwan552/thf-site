@@ -1,0 +1,305 @@
+
+.info{background-image: url(../images/two-worker-making-gates-smithy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+.info h1{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 300px;
+    font-size: 50px;
+}
+
+.modal-title{
+    color: black;
+    margin-bottom: 90px;
+} 
+.modal-header{
+    height: 80px;
+}
+.navbar-nav{
+    margin-right: 5%;
+}
+.info h1:hover{
+    color:  rgb(0, 255, 0);
+}
+.but{
+    border-radius: 20px;
+    color: white;
+    font-size: 19px;
+    background-color: transparent;
+    border: 3px solid white;
+    transition: 0.1s;
+
+}
+.but:hover{
+    border: 5px solid rgb(0, 255, 0);
+        
+}
+.navbar-toggler{
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+.nav-link {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.navbar-brand{
+    margin-left: 10%
+}
+.navbar-brand:hover{
+    opacity: 0.5;
+}
+.navbar-nav .nav-item .nav-link{
+    
+    margin-right: 10px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: rgb(0, 255, 0);
+}
+.about{
+    padding: 2%;
+    background-color: rgb(49, 48, 48);
+}
+.about,h1,p{
+    color: aliceblue;
+}
+.mission,{h1
+    font-size: 50px;
+}
+.mission,h1,h5{
+    
+    color: white;
+}
+.mission{
+    padding: 10%;
+    background-color: darkslategrey;
+    width: 100%;    
+}
+.skill{
+    padding: 5%;
+    background-color: rgb(48, 47, 47);
+}
+.this{
+    text-align: right;
+}
+#hunar{
+    width: 100%;
+    height: 320px;
+}
+#thf,p{
+    font-weight: bold;
+}
+#thf{
+    background-color:  rgb(46, 79, 79);
+
+
+} 
+.card-body{
+    background-color: rgb(46, 79, 79);
+}
+
+.car{
+    padding: 1%;
+    
+}
+.but2{
+    border-radius: 15px;
+    color: white;
+    font-size: 17px;
+    background-color: transparent;
+    border: 3px solid rgb(220, 132, 73);
+    transition: 0.3s;
+}
+.but2:hover{
+    border: 3px solid  rgb(0, 255, 0);
+        
+}
+.slider{
+    background-color: rgb(40, 41, 41);
+    height: auto;
+}
+.card-img-top:hover{
+    transform: scale(1.2);
+    transition: .3s;
+    
+}
+#wow{
+    font-size: 90px;
+    font-weight: bod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: beige;
+}
+.ok{
+    margin-top: 300px;
+}
+.growth{
+    background-image: url(../images/young-woman-working-night-workplace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:800px;
+    opacity: 0.8;
+}
+.com{
+    height: 200px;
+    width: 380px;
+   
+}
+.dropdown-item{
+    color: antiquewhite;
+}
+.but3{
+    border-radius: 15px;
+    color: white;
+    font-size: 17px;
+    background-color: transparent;
+    border: 3px solid rgb(220, 132, 73);
+    transition: 0.3s;
+    width: 80%;
+    margin: 2%;
+    height: 50px;
+}
+.but3:hover{
+    border: 3px solid  rgb(0, 255, 0);
+        
+}
+.foot-text:hover{
+    color:  rgb(0, 255, 0);
+
+}
+.foot-text1:hover{
+    color: rgb(0, 255, 0);
+    font-weight: bolder;
+}
+.foot-text1{
+    color:white;
+    font-weight: normal;
+}
+.foot-text{
+    color:white;
+}
+.footers{
+    background-color:#0d3441;
+    height: auto;
+    padding: 5%;
+} 
+.dropdown{
+    color: aliceblue;
+}
+.fa-brands:hover{
+    transform: scale(1.5);
+    transition: 0.2s;
+    opacity: 0.8;
+}
+#ico:hover{
+    transform: scale(1.5);
+    transition: 0.2s;
+    opacity: 0.8;
+}
+#ico{
+    color: aliceblue;
+    margin: 1%;
+    font-size: 20px;
+}
+.fa-brands {
+    color: aliceblue;
+    margin: 1%;
+    font-size: 30px;
+}
+.last{
+    color: aliceblue;
+    margin-top: 3%;
+}
+@media  (max-width:850px) {
+    #ok{
+        
+        margin-top:100px;
+    }
+    #hunar{
+        width:100%;
+        height: 350px;
+    }
+}
+@media  (max-width:840px) {
+    #ok{
+        
+        margin-top:400px;
+    }
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+       .tok{
+        font-size: 25px; 
+    }
+    .footers{
+      padding: 5%;
+      
+    }
+    .but3{
+        width: 90%;
+    }
+    .slider{
+        background-color: rgb(40, 41, 41);
+        height: 700px;
+    }
+    .ok{
+        margin-top: 100px;
+        padding: 2%;
+    }
+    .this{
+        text-align: center;
+    }
+    .car{
+        padding: 5%;
+        
+    }
+    .mission,h1{
+     font-size: 40px;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .slider{
+        background-color: rgb(40, 41, 41);
+        height: 700px;
+    }
+    .ok{
+        margin-top: 50px;
+        padding: 2%;
+    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .slider{
+        background-color: rgb(40, 41, 41);
+        height: 600px;
+    }
+    .ok{
+        margin-top: 180px;
+        padding: 2%;
+    }
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+
