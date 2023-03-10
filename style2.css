@@ -1,0 +1,72 @@
+@media only screen and (max-width:600px) {
+    .info{
+        background-image: url(../images/4884841.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100px;
+    }
+    #ok{
+        color:rgb(223, 40, 40);
+        text-align: center;
+        font-weight: bold;
+        margin-top: 150px;
+        font-size: 50px;
+    }
+}
+.info{
+    background-image: url(../images/4884841.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#ok{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.modal-title{
+    color: black;
+    margin-bottom: 90px;
+} 
+.modal-header{
+    height: 80px;
+}
+.navbar-nav{
+    margin-right: 5%;
+}
+.info h1:hover{
+    color:  rgb(0, 255, 0);
+}
+.navbar-toggler{
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+.nav-link {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.navbar-brand{
+    margin-left: 10%
+}
+.navbar-brand:hover{
+    opacity: 0.5;
+}
+.navbar-nav .nav-item .nav-link{
+    
+    margin-right: 10px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: rgb(0, 255, 0);
+}
+.dropdown-item{
+    color: antiquewhite;
+}
+.row2{
+margin-top: 70px;
+}

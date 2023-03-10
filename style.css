@@ -248,6 +248,7 @@
     .slider{
         background-color: rgb(40, 41, 41);
         height: 700px;
+        width: auto;
     }
     .ok{
         margin-top: 100px;
@@ -276,7 +277,10 @@
         margin-top: 50px;
         padding: 2%;
     }
-
+width: 100%;
+   body{
+    width: 100%;
+   }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
